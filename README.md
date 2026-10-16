@@ -1,13 +1,24 @@
-# 📷 Leica Recipe Book — Xiaomi 17T Pro RAW & Lightroom
+<div align="center">
 
-> **Sổ tay 2: Công thức theo cảnh × khung giờ trong ngày**  
-> Thiết kế cẩm nang giao diện **Retro Pixel Art 8-bit** độc đáo theo phong cách `/muxik`.
+<img src="assets/app_icon.png" width="128" height="128" alt="Leica Recipe Book Logo" />
 
-[![Build & Release APK](https://github.com/maico-le/photographer-tip/actions/workflows/build_release.yml/badge.svg)](https://github.com/maico-le/photographer-tip/actions/workflows/build_release.yml)
-[![Flutter](https://img.shields.io/badge/Flutter-3.47+-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Xiaomi 17T](https://img.shields.io/badge/Device-Xiaomi_17T_Leica-D9222A?logo=xiaomi&logoColor=white)](https://mi.com)
+# 📷 Leica Recipe Book
+### *Sổ tay 2: Công thức theo cảnh × khung giờ trong ngày*
+*Dành cho Xiaomi 17T (Leica Summilux) · Chế độ Pro RAW · Hậu kỳ Adobe Lightroom*
+
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/maico-le/photographer-tip/releases)
+[![Version](https://img.shields.io/badge/Version-v1.0.0-D9222A?style=for-the-badge)](https://github.com/maico-le/photographer-tip/releases/latest)
+[![Device](https://img.shields.io/badge/Device-Xiaomi_17T_Leica-FA520F?style=for-the-badge)](#)
+[![Style](https://img.shields.io/badge/Style-Retro_Pixel_Art-FFAF00?style=for-the-badge)](#)
+
+<br/>
+
+### 📲 [👉 TẢI NGAY BẢN CÀI ĐẶT LEICA RECIPE APK CHO ANDROID (TRỰC TIẾP) 👈](https://github.com/maico-le/photographer-tip/releases/latest/download/app-release.apk)
+*Hoặc xem các bản cập nhật và changelog tại trang [GitHub Releases](https://github.com/maico-le/photographer-tip/releases).*
 
 ---
+
+</div>
 
 ## 🌟 Giới thiệu
 
@@ -79,7 +90,16 @@ Kho lưu trữ tích hợp sẵn workflow `.github/workflows/build_release.yml`:
 
 ---
 
-## 🛠️ Hướng dẫn cài đặt & chạy thử
+## 📥 Hướng Dẫn Cài Đặt Nhanh (Android)
+
+1. Nhấn tải file APK phát hành trực tiếp: [**Leica Recipe Book APK (Mới nhất)**](https://github.com/maico-le/photographer-tip/releases/latest/download/app-release.apk).
+2. Sau khi tải về máy điện thoại Android, nhấn mở file `.apk` và chọn **Cài đặt**.
+   *(Nếu được hỏi, hãy bật quyền **Cho phép cài đặt ứng dụng không rõ nguồn gốc** cho trình duyệt của bạn)*.
+3. Mở ứng dụng **Leica Recipe Book** và bắt đầu tra cứu công thức chụp ảnh theo cảnh và khung giờ!
+
+---
+
+## 🛠️ Hướng dẫn cài đặt & chạy thử (Dành cho Lập trình viên)
 
 ### Yêu cầu môi trường
 - Flutter SDK `>=3.16.0` (Khuyên dùng `3.24+`)
